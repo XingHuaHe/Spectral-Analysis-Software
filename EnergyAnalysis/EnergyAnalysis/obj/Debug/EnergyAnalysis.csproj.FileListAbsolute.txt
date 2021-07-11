@@ -1,0 +1,39 @@
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe.config
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.pdb
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csprojResolveAssemblyReference.cache
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Form1.resources
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Properties.Resources.resources
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.GenerateResource.Cache
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.CoreCompileInputs.cache
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.exe
+D:\编程文件\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.pdb
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe.config
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.exe
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.pdb
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.pdb
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Form1.resources
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Properties.Resources.resources
+C:\Users\PC\Desktop\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.GenerateResource.Cache
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe.config
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.pdb
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csprojAssemblyReference.cache
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Form1.resources
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Properties.Resources.resources
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.GenerateResource.cache
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.CoreCompileInputs.cache
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.exe
+D:\Program Files\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.pdb
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe.config
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.exe
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\bin\Debug\EnergyAnalysis.pdb
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csprojAssemblyReference.cache
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Form1.resources
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.Properties.Resources.resources
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.GenerateResource.cache
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.csproj.CoreCompileInputs.cache
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.exe
+D:\C#光谱分析\EnergyAnalysis\EnergyAnalysis\obj\Debug\EnergyAnalysis.pdb
